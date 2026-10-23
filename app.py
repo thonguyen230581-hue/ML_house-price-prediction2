@@ -181,7 +181,7 @@ st.sidebar.info("""
 - **Đề tài:** Dự đoán giá nhà King County (USA)
 - **Mô hình tốt nhất:** XGBoost Regressor (R² = 0.8903, MAPE = 11.55%)
 - **Tập dữ liệu:** 21.613 giao dịch nhà ở (05/2014 – 05/2015)
-- **Tác giả:** Duytnd
+- **Tác giả:** Hoài Phương
 """)
 st.sidebar.markdown("---")
-st.sidebar.markdown("[GitHub Repository](https://github.com/Duytnd/ML_House_PP)")
+st.sidebar.markdown("[GitHub Repository](https://github.com/thonguyen230581-hue/ML_House_PP)")
